@@ -3,15 +3,11 @@ lockfileVersion: 5.4
 specifiers:
   '@parcel/transformer-sass': ^2.7.0
   '@popperjs/core': ^2.11.6
-  bootstrap: ^5.2.2
   parcel: ^2.7.0
-  sass: ^1.55.0
 
 dependencies:
   '@parcel/transformer-sass': 2.7.0_@parcel+core@2.7.0
   '@popperjs/core': 2.11.6
-  bootstrap: 5.2.2_@popperjs+core@2.11.6
-  sass: 1.55.0
 
 devDependencies:
   parcel: 2.7.0
@@ -905,14 +901,6 @@ packages:
   /boolbase/1.0.0:
     resolution: {integrity: sha512-JZOSA7Mo9sNGB8+UjSgzdLtokWAky1zbztM3WRLCbZ70/3cTANmQmOdR7y2g+J0e2WXywy1yS468tY+IruqEww==}
     dev: true
-
-  /bootstrap/5.2.2_@popperjs+core@2.11.6:
-    resolution: {integrity: sha512-dEtzMTV71n6Fhmbg4fYJzQsw1N29hJKO1js5ackCgIpDcGid2ETMGC6zwSYw09v05Y+oRdQ9loC54zB1La3hHQ==}
-    peerDependencies:
-      '@popperjs/core': ^2.11.6
-    dependencies:
-      '@popperjs/core': 2.11.6
-    dev: false
 
   /braces/3.0.2:
     resolution: {integrity: sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A==}
